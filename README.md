@@ -1,2 +1,2 @@
 # practiceProblems
-Practice coding problems
+Practice coding problems from HackerRank.
